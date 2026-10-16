@@ -26,7 +26,23 @@ Here are some ideas to get you started:
 
 No
 
+### 🏠 CountTop Langs.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LB-LUT&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ### ✅ Views
+![](https://komarev.com/ghpvc/?username=LB-LUT&abbreviated=true)
+
+![:Visits](https://moe-counter.glitch.me/get/@LB-LUT?theme=gelbooru)
+
+![Profile Views](https://komarev.com/ghpvc/?username=LB-LUT&color=brightgreen&style=flat&label=Views)
+
+![:Visits](https://count.getloli.com/get/@LB-LUT?theme=gelbooru)
+
+![Stats](https://github-profile-trophy.vercel.app/?username=LB-LUT&show_icons=true)
+
+
 ![](http://profile-counter.glitch.me/LB-LUT/count.svg)
 
 ### 🏀 GitHub stats.
